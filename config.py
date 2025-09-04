@@ -151,7 +151,7 @@ USENET_SERVERS = [
 
 # Update
 UPSTREAM_REPO = "https://github.com/Starboymusic/WZML-X"
-UPSTREAM_BRANCH = "wzv3"
+UPSTREAM_BRANCH = "master"
 UPDATE_PKGS = True
 
 # Leech
